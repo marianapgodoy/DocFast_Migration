@@ -1,0 +1,16 @@
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\SeleNUnit.DocFast.TestSuites.dll
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\SeleNUnit.DocFast.TestSuites.pdb
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\obj\Debug\SeleNUnit.DocFast.TestSuites.csprojResolveAssemblyReference.cache
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\obj\Debug\SeleNUnit.DocFast.TestSuites.dll
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\obj\Debug\SeleNUnit.DocFast.TestSuites.pdb
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\SeleNUnit.DocFast.Suites.dll
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\SeleNUnit.WebPages.dll
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\WebDriver.dll
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\WebDriver.Support.dll
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\SeleNUnit.WebPages.pdb
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\SeleNUnit.DocFast.Suites.pdb
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\WebDriver.pdb
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\WebDriver.xml
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\WebDriver.Support.pdb
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\WebDriver.Support.xml
+c:\users\mariana\documents\visual studio 2012\Projects\SeleNUnit.DocFast\SeleNUnit.DocFast.TestSuites\bin\Debug\SeleNUnit.DocFast.TestSuites.dll.config
